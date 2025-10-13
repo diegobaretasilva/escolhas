@@ -17,3 +17,11 @@ button {
     font-family: "Italianno", cursive;
     font-size: 40px;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
